@@ -1,0 +1,442 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://127.0.0.1:33334/Preview/mine/index.html" resolutions="1x" timestamp="1564030714367">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3823529318" ref="noodles:index:food:sea-food:rice:meat:drinks:burgers-and-pizza"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="noodles:index:food:sea-food:rice:meat:drinks:burgers-and-pizza"/>
+    <file name="noodles.css" crc="3832646183" ref="noodles"/>
+    <file name="nomq_noodles.css" crc="3962683934" ref="noodles"/>
+    <file name="index.css" crc="4107042724" ref="index"/>
+    <file name="nomq_index.css" crc="518718549" ref="index"/>
+    <file name="food.css" crc="105889841" ref="food"/>
+    <file name="nomq_food.css" crc="3804278998" ref="food"/>
+    <file name="sea-food.css" crc="4092510693" ref="sea-food"/>
+    <file name="nomq_sea-food.css" crc="431370569" ref="sea-food"/>
+    <file name="rice.css" crc="190615773" ref="rice"/>
+    <file name="nomq_rice.css" crc="3870551602" ref="rice"/>
+    <file name="meat.css" crc="3767938894" ref="meat"/>
+    <file name="nomq_meat.css" crc="259540261" ref="meat"/>
+    <file name="drinks.css" crc="4012189778" ref="drinks"/>
+    <file name="nomq_drinks.css" crc="419579833" ref="drinks"/>
+    <file name="burgers-and-pizza.css" crc="148428127" ref="burgers-and-pizza"/>
+    <file name="nomq_burgers-and-pizza.css" crc="234028776" ref="burgers-and-pizza"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+    <file name="museutils.js" crc="340535759" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+    <file name="whatinput.js" crc="86476730" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+    <file name="require.js" crc="7928878" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+  </folder>
+  <folder name="images">
+    <file name="thumb-1920-905685.jpg" crc="348070468" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beer (1).png" crc="510973059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u500-4.png" crc="47662957" ref="index"/>
+    <file name="pizza.png" crc="168026012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u526-4.png" crc="3914410699" ref="index"/>
+    <file name="fish.png" crc="4022016666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rice (1).png" crc="369769753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u493-4.png" crc="4120725214" ref="index"/>
+    <file name="u518-4.png" crc="4150044532" ref="index"/>
+    <file name="burger (1).png" crc="254803764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u550-4.png" crc="4136631298" ref="index"/>
+    <file name="cupcake.png" crc="312945859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u559-4.png" crc="3888581465" ref="index"/>
+    <file name="soda.png" crc="199517837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pizza (2).png" crc="3962388755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u541-4.png" crc="480629089" ref="index"/>
+    <file name="u553-4.png" crc="431005070" ref="index"/>
+    <file name="types.jpg" crc="3823983772" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u500-42.png" crc="392630914" ref="index"/>
+    <file name="u526-42.png" crc="3914410699" ref="index"/>
+    <file name="u493-42.png" crc="514562238" ref="index"/>
+    <file name="u518-42.png" crc="4150044532" ref="index"/>
+    <file name="u550-42.png" crc="325921126" ref="index"/>
+    <file name="u559-42.png" crc="4153589446" ref="index"/>
+    <file name="u541-42.png" crc="489189617" ref="index"/>
+    <file name="u553-42.png" crc="3809080141" ref="index"/>
+    <file name="types-u577-fr.jpg" crc="4284788205" ref="index"/>
+    <file name="u500-43.png" crc="392630914" ref="index"/>
+    <file name="u526-43.png" crc="3914410699" ref="index"/>
+    <file name="u493-43.png" crc="3820484040" ref="index"/>
+    <file name="u518-43.png" crc="4150044532" ref="index"/>
+    <file name="u550-43.png" crc="325921126" ref="index"/>
+    <file name="u559-43.png" crc="4153589446" ref="index"/>
+    <file name="u541-43.png" crc="489189617" ref="index"/>
+    <file name="u553-43.png" crc="3809080141" ref="index"/>
+    <file name="types-u577-fr2.jpg" crc="429807578" ref="index"/>
+    <file name="thumb-1920-905685-u10850-3-fr.jpg" crc="3856365339" ref="index"/>
+    <file name="u500-44.png" crc="4160403115" ref="index"/>
+    <file name="u526-44.png" crc="3914410699" ref="index"/>
+    <file name="u493-44.png" crc="4023562951" ref="index"/>
+    <file name="u518-44.png" crc="3919187391" ref="index"/>
+    <file name="u550-44.png" crc="4215882700" ref="index"/>
+    <file name="u559-44.png" crc="408219745" ref="index"/>
+    <file name="u541-44.png" crc="164605306" ref="index"/>
+    <file name="u553-44.png" crc="110090870" ref="index"/>
+    <file name="types-u577-fr3.jpg" crc="211150949" ref="index"/>
+    <file name="thumb-1920-905685-u10850-3-fr2.jpg" crc="398028795" ref="index"/>
+    <file name="u500-45.png" crc="243661286" ref="index"/>
+    <file name="u526-45.png" crc="3914410699" ref="index"/>
+    <file name="u493-45.png" crc="476378656" ref="index"/>
+    <file name="u518-45.png" crc="4118150625" ref="index"/>
+    <file name="u550-45.png" crc="156545148" ref="index"/>
+    <file name="u559-45.png" crc="247468785" ref="index"/>
+    <file name="u541-45.png" crc="4248866921" ref="index"/>
+    <file name="u553-45.png" crc="3974371094" ref="index"/>
+    <file name="types-u577-fr4.jpg" crc="466594991" ref="index"/>
+    <file name="thumb-1920-905685-u10850-3-fr3.jpg" crc="3939271224" ref="index"/>
+    <file name="u500-46.png" crc="4052973881" ref="index"/>
+    <file name="u526-46.png" crc="3914410699" ref="index"/>
+    <file name="u493-46.png" crc="145042771" ref="index"/>
+    <file name="u518-46.png" crc="3994095632" ref="index"/>
+    <file name="u550-46.png" crc="4081125086" ref="index"/>
+    <file name="u559-46.png" crc="3978400664" ref="index"/>
+    <file name="u541-46.png" crc="3860046471" ref="index"/>
+    <file name="u553-46.png" crc="436961315" ref="index"/>
+    <file name="types-u577-fr5.jpg" crc="4201860239" ref="index"/>
+    <file name="u493-47.png" crc="239116120" ref="index"/>
+    <file name="u500-47.png" crc="3957032703" ref="index"/>
+    <file name="u518-47.png" crc="4278818008" ref="index"/>
+    <file name="u526-47.png" crc="4263606748" ref="index"/>
+    <file name="u541-47.png" crc="4285146450" ref="index"/>
+    <file name="u550-47.png" crc="4064501150" ref="index"/>
+    <file name="u553-47.png" crc="3809080141" ref="index"/>
+    <file name="u559-47.png" crc="4139635929" ref="index"/>
+    <file name="types-u577-fr6.jpg" crc="247907511" ref="index"/>
+    <file name="u493-48.png" crc="4023562951" ref="index"/>
+    <file name="u518-48.png" crc="4270458864" ref="index"/>
+    <file name="u553-48.png" crc="227559781" ref="index"/>
+    <file name="u526-48.png" crc="3926352134" ref="index"/>
+    <file name="u550-48.png" crc="437811347" ref="index"/>
+    <file name="u559-48.png" crc="53967096" ref="index"/>
+    <file name="u541-48.png" crc="3820426772" ref="index"/>
+    <file name="u500-48.png" crc="4023708646" ref="index"/>
+    <file name="types-u577-fr7.jpg" crc="62322485" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:food:drinks:rice:noodles:meat:sea-food:burgers-and-pizza"/>
+    <file name="u14595-4.png" crc="4097388201" ref="food"/>
+    <file name="rice-u14304-fr.jpg" crc="4103915765" ref="food"/>
+    <file name="images (5).jpg" crc="4238464011" ref="food">
+      <caption webpage="food" alt=""/>
+      <caption webpage="food" alt=""/>
+      <caption webpage="food" alt=""/>
+      <caption webpage="food" alt=""/>
+    </file>
+    <file name="images-u14320-fr.jpg" crc="4247701051" ref="food"/>
+    <file name="download (2).jpg" crc="381516001" ref="food">
+      <caption webpage="food" alt=""/>
+      <caption webpage="food" alt=""/>
+      <caption webpage="food" alt=""/>
+      <caption webpage="food" alt=""/>
+    </file>
+    <file name="u14618-4.png" crc="9191396" ref="food"/>
+    <file name="u14633-4.png" crc="499533417" ref="food"/>
+    <file name="u14630-4.png" crc="4228120281" ref="food"/>
+    <file name="u14627-4.png" crc="285336368" ref="food"/>
+    <file name="u14595-42.png" crc="471154454" ref="food"/>
+    <file name="images-u14320-fr2.jpg" crc="3800270071" ref="food"/>
+    <file name="u14618-42.png" crc="385235106" ref="food"/>
+    <file name="u14633-42.png" crc="4255862060" ref="food"/>
+    <file name="u14630-42.png" crc="16291911" ref="food"/>
+    <file name="u14627-42.png" crc="265989585" ref="food"/>
+    <file name="u14595-43.png" crc="3803663467" ref="food"/>
+    <file name="u14618-43.png" crc="3551096" ref="food"/>
+    <file name="u14633-43.png" crc="305032173" ref="food"/>
+    <file name="u14630-43.png" crc="3949245064" ref="food"/>
+    <file name="u14627-43.png" crc="376453116" ref="food"/>
+    <file name="u14595-44.png" crc="4163607387" ref="food"/>
+    <file name="u14618-44.png" crc="4262425831" ref="food"/>
+    <file name="u14633-44.png" crc="3842707834" ref="food"/>
+    <file name="u14630-44.png" crc="116708416" ref="food"/>
+    <file name="u14627-44.png" crc="4048193492" ref="food"/>
+    <file name="u17967-4.png" crc="4097388201" ref="drinks"/>
+    <file name="u18236-4.png" crc="534397249" ref="drinks"/>
+    <file name="images (11).jpg" crc="3825969087" ref="drinks">
+      <caption webpage="drinks" alt=""/>
+    </file>
+    <file name="images (10).jpg" crc="50360436" ref="drinks">
+      <caption webpage="drinks" alt=""/>
+    </file>
+    <file name="images (17).jpg" crc="532941924" ref="drinks">
+      <caption webpage="drinks" alt=""/>
+    </file>
+    <file name="images (16).jpg" crc="167534734" ref="drinks">
+      <caption webpage="drinks" alt=""/>
+    </file>
+    <file name="images (18).jpg" crc="3927791876" ref="drinks">
+      <caption webpage="drinks" alt=""/>
+    </file>
+    <file name="u17967-42.png" crc="471154454" ref="drinks"/>
+    <file name="u18236-42.png" crc="3805671920" ref="drinks"/>
+    <file name="u17967-43.png" crc="3803663467" ref="drinks"/>
+    <file name="u18236-43.png" crc="392094843" ref="drinks"/>
+    <file name="u17967-44.png" crc="4163607387" ref="drinks"/>
+    <file name="u18236-44.png" crc="184185472" ref="drinks"/>
+    <file name="rice.jpg" crc="4155961766" ref="rice">
+      <caption webpage="rice" alt=""/>
+      <caption webpage="rice" alt=""/>
+      <caption webpage="rice" alt=""/>
+    </file>
+    <file name="u11754-8.png" crc="159192280" ref="rice"/>
+    <file name="dal-fry-tadka.jpg" crc="106635070" ref="rice">
+      <caption webpage="rice" alt=""/>
+      <caption webpage="rice" alt=""/>
+      <caption webpage="rice" alt=""/>
+      <caption webpage="rice" alt=""/>
+      <caption webpage="rice" alt=""/>
+    </file>
+    <file name="u11781-8.png" crc="159192280" ref="rice"/>
+    <file name="south.jpg" crc="130516558" ref="rice">
+      <caption webpage="rice" alt=""/>
+    </file>
+    <file name="u11807-8.png" crc="159192280" ref="rice"/>
+    <file name="u13950-4.png" crc="4097388201" ref="rice"/>
+    <file name="u14742-4.png" crc="4161193032" ref="rice"/>
+    <file name="u11754-82.png" crc="3944574446" ref="rice"/>
+    <file name="u11781-82.png" crc="3944574446" ref="rice"/>
+    <file name="u11807-82.png" crc="3944574446" ref="rice"/>
+    <file name="u13950-42.png" crc="471154454" ref="rice"/>
+    <file name="u14742-42.png" crc="3831669268" ref="rice"/>
+    <file name="u11754-83.png" crc="3848444203" ref="rice"/>
+    <file name="u11781-83.png" crc="3848444203" ref="rice"/>
+    <file name="u11807-83.png" crc="3848444203" ref="rice"/>
+    <file name="u13950-43.png" crc="3803663467" ref="rice"/>
+    <file name="u14742-43.png" crc="519726376" ref="rice"/>
+    <file name="u11754-84.png" crc="4150717064" ref="rice"/>
+    <file name="u11781-84.png" crc="4150717064" ref="rice"/>
+    <file name="u11807-84.png" crc="4150717064" ref="rice"/>
+    <file name="u13950-44.png" crc="4163607387" ref="rice"/>
+    <file name="u14742-44.png" crc="215095509" ref="rice"/>
+    <file name="u11754-85.png" crc="3957957794" ref="rice"/>
+    <file name="u11781-85.png" crc="3957957794" ref="rice"/>
+    <file name="u11807-85.png" crc="3957957794" ref="rice"/>
+    <file name="u13950-45.png" crc="4163607387" ref="rice"/>
+    <file name="u14742-45.png" crc="215095509" ref="rice"/>
+    <file name="u16913-4.png" crc="4133163039" ref="noodles"/>
+    <file name="noodles.jpg" crc="4225861081" ref="noodles">
+      <caption webpage="noodles" alt=""/>
+      <caption webpage="noodles" alt=""/>
+      <caption webpage="noodles" alt=""/>
+      <caption webpage="noodles" alt=""/>
+    </file>
+    <file name="0085_chinese_maggie_web.jpg" crc="3822252900" ref="noodles">
+      <caption webpage="noodles" alt=""/>
+      <caption webpage="noodles" alt=""/>
+      <caption webpage="noodles" alt=""/>
+      <caption webpage="noodles" alt=""/>
+    </file>
+    <file name="u18766-8.png" crc="159192280" ref="noodles"/>
+    <file name="u18771-8.png" crc="159192280" ref="noodles"/>
+    <file name="u16913-42.png" crc="3924712821" ref="noodles"/>
+    <file name="u18766-82.png" crc="3944574446" ref="noodles"/>
+    <file name="u18771-82.png" crc="3944574446" ref="noodles"/>
+    <file name="u16913-43.png" crc="4001518712" ref="noodles"/>
+    <file name="u18766-83.png" crc="3848444203" ref="noodles"/>
+    <file name="u18771-83.png" crc="3848444203" ref="noodles"/>
+    <file name="u16913-44.png" crc="4240953876" ref="noodles"/>
+    <file name="u18766-84.png" crc="248778866" ref="noodles"/>
+    <file name="u18771-84.png" crc="248778866" ref="noodles"/>
+    <file name="u17048-4.png" crc="4097388201" ref="meat"/>
+    <file name="north_carolina_dipped_fried_chicken-keller---keller-(2)-lede.jpg" crc="4116064920" ref="meat">
+      <caption webpage="meat" alt=""/>
+      <caption webpage="meat" alt=""/>
+      <caption webpage="meat" alt=""/>
+      <caption webpage="meat" alt=""/>
+    </file>
+    <file name="650x350_tangy_skillet_chicken_recipe.jpg" crc="4135536027" ref="meat">
+      <caption webpage="meat" alt=""/>
+      <caption webpage="meat" alt=""/>
+      <caption webpage="meat" alt=""/>
+      <caption webpage="meat" alt=""/>
+    </file>
+    <file name="u18792-8.png" crc="159192280" ref="meat"/>
+    <file name="u18795-8.png" crc="159192280" ref="meat"/>
+    <file name="u17048-42.png" crc="471154454" ref="meat"/>
+    <file name="u18792-82.png" crc="3944574446" ref="meat"/>
+    <file name="u18795-82.png" crc="3944574446" ref="meat"/>
+    <file name="u17048-43.png" crc="3803663467" ref="meat"/>
+    <file name="u18792-83.png" crc="3848444203" ref="meat"/>
+    <file name="u18795-83.png" crc="3848444203" ref="meat"/>
+    <file name="u17048-44.png" crc="4163607387" ref="meat"/>
+    <file name="u18792-84.png" crc="248778866" ref="meat"/>
+    <file name="u18795-84.png" crc="248778866" ref="meat"/>
+    <file name="u17215-4.png" crc="4133163039" ref="sea-food"/>
+    <file name="fishandchips.jpg" crc="324366291" ref="sea-food">
+      <caption webpage="sea-food" alt=""/>
+      <caption webpage="sea-food" alt=""/>
+      <caption webpage="sea-food" alt=""/>
+      <caption webpage="sea-food" alt=""/>
+    </file>
+    <file name="20140811-seafood-pasta-blog-banner-1024x448.jpg" crc="4169764073" ref="sea-food">
+      <caption webpage="sea-food" alt=""/>
+      <caption webpage="sea-food" alt=""/>
+      <caption webpage="sea-food" alt=""/>
+      <caption webpage="sea-food" alt=""/>
+    </file>
+    <file name="u18798-8.png" crc="159192280" ref="sea-food"/>
+    <file name="u18801-8.png" crc="159192280" ref="sea-food"/>
+    <file name="u17215-42.png" crc="3924712821" ref="sea-food"/>
+    <file name="u18798-82.png" crc="3944574446" ref="sea-food"/>
+    <file name="u18801-82.png" crc="3944574446" ref="sea-food"/>
+    <file name="u17215-43.png" crc="4001518712" ref="sea-food"/>
+    <file name="u18798-83.png" crc="3848444203" ref="sea-food"/>
+    <file name="u18801-83.png" crc="3848444203" ref="sea-food"/>
+    <file name="u17215-44.png" crc="4240953876" ref="sea-food"/>
+    <file name="u18798-84.png" crc="248778866" ref="sea-food"/>
+    <file name="u18801-84.png" crc="248778866" ref="sea-food"/>
+    <file name="u17989-4.png" crc="4097388201" ref="burgers-and-pizza"/>
+    <file name="maxresdefault.jpg" crc="4027467089" ref="burgers-and-pizza">
+      <caption webpage="burgers-and-pizza" alt=""/>
+      <caption webpage="burgers-and-pizza" alt=""/>
+      <caption webpage="burgers-and-pizza" alt=""/>
+      <caption webpage="burgers-and-pizza" alt=""/>
+    </file>
+    <file name="u17989-42.png" crc="471154454" ref="burgers-and-pizza"/>
+    <file name="u17989-43.png" crc="3803663467" ref="burgers-and-pizza"/>
+    <file name="u17989-44.png" crc="4163607387" ref="burgers-and-pizza"/>
+    <file name="u19643-8.png" crc="159192280" ref="drinks"/>
+    <file name="u19646-8.png" crc="159192280" ref="drinks"/>
+    <file name="u19649-8.png" crc="159192280" ref="drinks"/>
+    <file name="u19652-8.png" crc="159192280" ref="drinks"/>
+    <file name="u19655-8.png" crc="159192280" ref="drinks"/>
+    <file name="u19643-82.png" crc="3944574446" ref="drinks"/>
+    <file name="u19646-82.png" crc="3944574446" ref="drinks"/>
+    <file name="u19649-82.png" crc="3944574446" ref="drinks"/>
+    <file name="u19652-82.png" crc="3944574446" ref="drinks"/>
+    <file name="u19655-82.png" crc="3944574446" ref="drinks"/>
+    <file name="u19643-83.png" crc="3848444203" ref="drinks"/>
+    <file name="u19646-83.png" crc="3848444203" ref="drinks"/>
+    <file name="u19649-83.png" crc="3848444203" ref="drinks"/>
+    <file name="u19652-83.png" crc="3848444203" ref="drinks"/>
+    <file name="u19655-83.png" crc="3848444203" ref="drinks"/>
+    <file name="u19643-84.png" crc="248778866" ref="drinks"/>
+    <file name="u19646-84.png" crc="248778866" ref="drinks"/>
+    <file name="u19649-84.png" crc="248778866" ref="drinks"/>
+    <file name="u19652-84.png" crc="248778866" ref="drinks"/>
+    <file name="u19655-84.png" crc="248778866" ref="drinks"/>
+    <file name="u19584-4.png" crc="4161193032" ref="noodles"/>
+    <file name="u19584-42.png" crc="3831669268" ref="noodles"/>
+    <file name="u19584-43.png" crc="519726376" ref="noodles"/>
+    <file name="u19584-44.png" crc="3920567263" ref="noodles"/>
+    <file name="u19575-4.png" crc="4161193032" ref="meat"/>
+    <file name="u19575-42.png" crc="3831669268" ref="meat"/>
+    <file name="u19575-43.png" crc="519726376" ref="meat"/>
+    <file name="u19575-44.png" crc="3920567263" ref="meat"/>
+    <file name="u19593-4.png" crc="4161193032" ref="sea-food"/>
+    <file name="u19593-42.png" crc="3831669268" ref="sea-food"/>
+    <file name="u19593-43.png" crc="519726376" ref="sea-food"/>
+    <file name="u19593-44.png" crc="3920567263" ref="sea-food"/>
+    <file name="u19602-4.png" crc="4161193032" ref="burgers-and-pizza"/>
+    <file name="jbt3i79im2wzkumtlidx.jpg" crc="4283654020" ref="burgers-and-pizza">
+      <caption webpage="burgers-and-pizza" alt=""/>
+    </file>
+    <file name="grease.jpg" crc="403357517" ref="burgers-and-pizza">
+      <caption webpage="burgers-and-pizza" alt=""/>
+    </file>
+    <file name="u19107-8.png" crc="159192280" ref="burgers-and-pizza"/>
+    <file name="u19110-8.png" crc="159192280" ref="burgers-and-pizza"/>
+    <file name="u19113-8.png" crc="159192280" ref="burgers-and-pizza"/>
+    <file name="u19602-42.png" crc="3831669268" ref="burgers-and-pizza"/>
+    <file name="u19107-82.png" crc="3944574446" ref="burgers-and-pizza"/>
+    <file name="u19110-82.png" crc="3944574446" ref="burgers-and-pizza"/>
+    <file name="u19113-82.png" crc="3944574446" ref="burgers-and-pizza"/>
+    <file name="u19602-43.png" crc="519726376" ref="burgers-and-pizza"/>
+    <file name="u19107-83.png" crc="3848444203" ref="burgers-and-pizza"/>
+    <file name="u19110-83.png" crc="3848444203" ref="burgers-and-pizza"/>
+    <file name="u19113-83.png" crc="3848444203" ref="burgers-and-pizza"/>
+    <file name="u19107-84.png" crc="248778866" ref="burgers-and-pizza"/>
+    <file name="u19110-84.png" crc="248778866" ref="burgers-and-pizza"/>
+    <file name="u19113-84.png" crc="248778866" ref="burgers-and-pizza"/>
+    <file name="u19602-44.png" crc="3920567263" ref="burgers-and-pizza"/>
+  </folder>
+  <file name="index.html" crc="505051040" seo="true" mt="1563900885440" redirect="true"/>
+  <file name="food.html" crc="3970430840" seo="true" mt="1563897535965" redirect="true"/>
+  <file name="drinks.html" crc="4011927045" seo="true" mt="1563901599979" redirect="true"/>
+  <file name="rice.html" crc="468193922" seo="true" mt="1563899342271" redirect="true"/>
+  <file name="noodles.html" crc="1918026" seo="true" mt="1563901138339" redirect="true"/>
+  <file name="meat.html" crc="448411442" seo="true" mt="1563901120386" redirect="true"/>
+  <file name="sea-food.html" crc="48180632" seo="true" mt="1563901153851" redirect="true"/>
+  <file name="burgers-and-pizza.html" crc="4232706962" seo="true" mt="1563901463436" redirect="true"/>
+</manifest>
