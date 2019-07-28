@@ -1,0 +1,37 @@
+                                            Mount carmel college, Autonomous
+                                                                    Bengaluru
+                                          End semester Examinatio - oct/nov2019
+                                             V Semester Bsc Computer science
+Time:3 hours                                                                                        Max Marks :70 Marks
+
+                                                         Part A
+Answer any ten questions : Each carrirs two marks                                  10*2=20
+1. Define web browser.
+2. Discuss pompt().
+3. Different between style sheet and embedded style sheet.
+4. State DTD
+5. Explain msil
+6. Draw architecture of framework
+7. What us access modifier.
+8. Define abstract.
+9.what us access modifier
+10. What is query string.
+11. Describe adrotator control
+12. What is cookie.
+
+                                                                   PART B
+Answer any four questions : Each carrirs five marks                                 4*5=20
+13. Explain list tag 
+14. Generate a registration form
+15. Explain CLr
+16. Explain delegate 
+17.  Describe the features kd asp. Net
+18. What is data 
+                                                              PART C
+Answer any three questions : Each question carries ten marks               3*10=30
+19. What is filter 
+20. Explain constructor 
+21. What is Polymorphism 
+22. Write a note on validation control 
+23. What is View state. 
+
